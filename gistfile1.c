@@ -5,7 +5,7 @@ main()
 {
    char ch;
  
-   printf("Do you want to shutdown your computer now (y/n)\nYou say: ");
+   printf("Do you want to shutdown your computer now? (y/n)\nYou say: ");
    scanf("%c",&ch);
  
    if (ch == 'y' || ch == 'Y')
