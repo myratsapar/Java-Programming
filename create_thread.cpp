@@ -4,7 +4,7 @@
 #define NUMBER_OF_THREADS 10
 void *print_hello_world(void *tid)
 {
-/* This function prints the thread’s identifier and then exits. */
+/* This function prints the threadâ€™s identifier and then exits. */
 printf("Hello World. Greetings from thread %d\n", tid);
 pthread_exit(NULL);
 }
@@ -23,4 +23,4 @@ exit(-1);
 }
 }
 exit(NULL);
-}
+} 
