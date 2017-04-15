@@ -15,5 +15,5 @@ main()
    printf ("You should choose one of these: (y/n)");
       
  	getch ();
-    return 0;
+   return 0;
 }
