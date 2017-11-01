@@ -26,7 +26,7 @@ System.out.print("Kung Fu Masterly status");
 else if (85 <= age && age < 95)
 System.out.print("Wizardly status");
 else 
-System.out.print("Oguzhan status");
+System.out.print("Oghuzkhan status");
 
 	}
 }//3:54 AM 01-Nov-17
