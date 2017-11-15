@@ -5,5 +5,5 @@ int y = 6;
 y = y + 1;
 
 System.out.println(x+y);
-}
+ }
 }
