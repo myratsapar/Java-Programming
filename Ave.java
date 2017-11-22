@@ -1,8 +1,8 @@
 public class Ave{
 	public static int calculate(int a, int b){
-	int sum = 0;
-	sum = (a + b) / 2;
-	System.out.println(sum);
+	int ave = 0;
+	ave = (a + b) / 2;
+	System.out.println(ave);
 return sum;
 }
 	public static void main(String[] args){
