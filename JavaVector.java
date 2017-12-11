@@ -21,4 +21,3 @@ public class JavaVector {
 				
 	}
 }//December 12, 2017 2:01:40 AM
-
