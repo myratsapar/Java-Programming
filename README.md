@@ -1,6 +1,6 @@
 # Java-Programming
 Java-I
 
-My workplace
-
-Works on java
+JDK - Java Development Kit
+JRE - Java Runtime Environment
+JVM - Java Virtual Machine
