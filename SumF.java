@@ -1,4 +1,4 @@
-//Constructor do all
+//Constructor does all
 public class SumF {
 	int m, n, sum;
 	public SumF(int a, int b){
