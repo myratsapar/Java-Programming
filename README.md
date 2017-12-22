@@ -1,13 +1,10 @@
-# Java-Programming 
-# Java - I
+# Java-Programming
 
-
+# Introduction to Java
 JDK - Java Development Kit
 
 JRE - Java Runtime Environment
 
 JVM - Java Virtual Machine
-
-# Introduction to Java
 
 - Hello world in Java
