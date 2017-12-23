@@ -16,7 +16,7 @@ else if (0 <= age && age < 13)
 else if (13 <= age && age < 25)
 	System.out.print("Teen/Adult age");
 else if (25 <= age && age < 37)
-	System.out.print("Middle-aged age");
+	System.out.print("Middle-aged");
 else if (37 <= age && age < 49)
 	System.out.print("Senior age");
 else if (49 <= age && age < 61)
