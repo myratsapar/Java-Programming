@@ -10,21 +10,21 @@ System.out.print("Enter age: ");
 age = input.nextInt();
 	
 if (0 <= age && age < 13)
-	System.out.print("Child status");
+	System.out.print("Child age");
 else if (13 <= age && age < 25)
-	System.out.print("Teen/Adult status");
+	System.out.print("Teen/Adult age");
 else if (25 <= age && age < 37)
-	System.out.print("Middle-aged status");
+	System.out.print("Middle-aged age");
 else if (37 <= age && age < 49)
-	System.out.print("Senior status");
+	System.out.print("Senior age");
 else if (49 <= age && age < 61)
-	System.out.print("Elderly status");
+	System.out.print("Elderly age");
 else if (61 <= age && age < 73)
-	System.out.print("Old age status");
+	System.out.print("Old age ");
 else if (73 <= age && age < 85)
-	System.out.print("Kung Fu Masterly status");
+	System.out.print("Kung Fu Masterly age");
 else if (85 <= age && age < 95)
-	System.out.print("Wizardly status");
+	System.out.print("Wizardly age");
 else 
 	System.out.print("Oghuzkhan status");
 
