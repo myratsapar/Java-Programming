@@ -9,7 +9,9 @@ int age;
 System.out.print("Enter age: ");
 age = input.nextInt();
 	
-if (0 <= age && age < 13)
+if (0 > age)
+	System.out.print("Age cannot be negative");
+else if (0 <= age && age < 13)
 	System.out.print("Child age");
 else if (13 <= age && age < 25)
 	System.out.print("Teen/Adult age");
