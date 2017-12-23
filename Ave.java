@@ -3,7 +3,7 @@ public class Ave{
 	int ave = 0;
 	ave = (a + b) / 2;
 	System.out.println(ave);
-return sum;
+return ave;
 }
 	public static void main(String[] args){
 	System.out.print("Average of 4 and 6 is: ");
