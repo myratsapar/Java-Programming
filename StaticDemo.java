@@ -1,4 +1,4 @@
-class Datas {
+1lass Datas {
 	 static int m;
 	 static int n;
 	 static int sum;
@@ -12,6 +12,6 @@ static void sumf(int a, int b){
 }
 class StaticDemo{
 public static void main(String[] args){
-	Datas.sumf(9, 12);
+	Datas.sumf(9, 11);
 	}
-}
+}//December 24, 2017 5:15 PM
