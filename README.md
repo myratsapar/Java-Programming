@@ -7,6 +7,7 @@ JRE - Java Runtime Environment
 
 JVM - Java Virtual Machine
 
+
 Compile in command promt:
 
 path\javac Helloworld.java
