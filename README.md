@@ -7,6 +7,16 @@ JRE - Java Runtime Environment
 
 JVM - Java Virtual Machine
 
+Compile in command promt:
+
+path\javac Helloworld.java
+
+path\java Helloworld
+
+=> Hello world
+
+
+
 - Hello world in Java
 
 - Operators
